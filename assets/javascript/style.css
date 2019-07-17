@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+}
+
+.header{
+    background-color: orange;
+    width: 400px;
+    text-align: center;
+    
+
+}
+
+#opalImage{
+    width: 300px;
+}
+
+.images{
+    align-content: center;
+
+}
+
+.p{
+    margin: 55px;
+
+}
